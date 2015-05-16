@@ -41,3 +41,7 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'mysql2'
 gem "cancan"
+
+gem 'bootstrap-sass'
+gem 'mailboxer'
+gem 'chosen-rails'

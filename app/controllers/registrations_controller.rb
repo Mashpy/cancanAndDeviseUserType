@@ -6,7 +6,7 @@ private
   end
 
   def account_update_params
-    params.require(:user).permit(:email, :password, :password_confirmation, :current_password , :role)
+    params.require(:user).permit(:email, :password, :password_confirmation, :current_password , :role , :name)
   end
   
   end
