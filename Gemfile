@@ -45,3 +45,4 @@ gem "cancan"
 gem 'bootstrap-sass'
 gem 'mailboxer'
 gem 'chosen-rails'
+gem 'friendly_id'
